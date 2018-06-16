@@ -2,4 +2,4 @@
 
 Snake control: WASD
 
-Reset: R
+Reset: R (only works when dead)
